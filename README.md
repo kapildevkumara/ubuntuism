@@ -32,13 +32,13 @@ Link: https://www.balena.io/etcher/	</br>
 <img src="./images/1_Windows/Step_3.gif" width="400" text="Step 3">  
 
 <ul>
-  <li> Insert a pendrive with formatted pendrive with 4GB space available.</br> </li>
+  <li> Insert a formatted pendrive with 4GB space available.</br> </li>
   <li> Select the location of downloaded Ubuntu image and the pendrive path.</br> </li>
   <li> Flash the image using any of the 2 softwares. </br> </li>
 </ul>
 
 </br>
-&nbsp; We have successfully completed out pre-requisites. Lets jump into our main course. So you both, Refresh and restart!! :-P 
+&nbsp; We have successfully completed our pre-requisites. Lets jump into our main course. So you both, Refresh and restart!! :-P 
 </br>
 
 <ul>
@@ -69,7 +69,7 @@ In the Grub Menu select "Install Ubuntu" option</br>
 **5. Select Wireless network settings** </br>
 <img src="./images/2_Linux_Install/Step_5.jpg" width="600" text="Step 5"></br>
 
-**6. Select the Installtion option** </br>
+**6. Select the Installation option** </br>
 Select the updates and software that you need. You can proceed with Normal Installation, omit 3rd party softwares and turn off secure boot.</br> 
 <img src="./images/2_Linux_Install/Step_6.jpg" width="600" text="Step 6"></br>
 
@@ -108,4 +108,4 @@ Proceed with it and your installations would be successfully completed (hopefull
 Note : In some cases, you may need to update your BIOS. Check with the Manufacturer. 
 <img src="./images/2_Linux_Install/Note_1.jpg" width="600" text="Note_1"></br></br>
 
-If you face some issue, yeah even me, I too faced errors during my installation and it is successful now :-P
+I too faced errors during my installation and have successfully fixed them. Happy Learning :-P 
