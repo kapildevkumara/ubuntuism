@@ -103,7 +103,7 @@ You should be getting a confirmation page about your partition. </br>
 
 **8. Take Rest - Let it install** </br>
 Proceed with it and your installations would be successfully completed (hopefully :-P)
-<img src="./images/2_Linux_Install/Step_7.6.jpg" width="600" text="Step 8"></br>
+<img src="./images/2_Linux_Install/Step_8.jpg" width="600" text="Step 8"></br>
 
 Note : In some cases, you may need to update your BIOS. Check with the Manufacturer. 
 <img src="./images/2_Linux_Install/Note_1.jpg" width="600" text="Note_1"></br></br>
